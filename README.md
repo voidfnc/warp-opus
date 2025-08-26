@@ -180,6 +180,8 @@ This repository and all projects within are licensed under the MIT License - see
 ## 📬 Contact
 
 **GitHub**: [@voidfnc](https://github.com/voidfnc)  
+**Email**: your.email@example.com  
+**Discord**: [Join our server](https://discord.gg/warp-opus)
 
 ## 💖 Support
 
