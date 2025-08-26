@@ -1,0 +1,30 @@
+# Core GUI Framework
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.3
+PyQt6-sip==13.10.2
+customtkinter==5.2.2
+
+# Audio Processing
+sounddevice==0.4.6
+librosa==0.10.1
+scipy  # Latest compatible version
+pydub==0.25.1
+pyaudio==0.2.14
+
+# Visualization & Graphics
+pyqtgraph==0.13.3
+matplotlib==3.9.0
+moderngl==5.10.0
+moderngl-window==2.4.6
+
+# Core Scientific Computing
+numpy  # Already installed with scipy
+numba==0.59.1
+
+# Image Processing
+Pillow==10.4.0
+opencv-python==4.10.0.84
+
+# Utilities
+watchdog==4.0.1
+psutil==5.9.8
