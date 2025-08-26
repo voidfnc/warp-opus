@@ -180,8 +180,6 @@ This repository and all projects within are licensed under the MIT License - see
 ## 📬 Contact
 
 **GitHub**: [@voidfnc](https://github.com/voidfnc)  
-**Email**: your.email@example.com  
-**Discord**: [Join our server](https://discord.gg/warp-opus)
 
 ## 💖 Support
 
@@ -199,3 +197,4 @@ If you find these projects useful, consider:
   <i>Where AI meets Innovation</i><br><br>
   Built with 🤖 and ❤️ using Warp Terminal & Claude Opus 4.1
 </div>
+
